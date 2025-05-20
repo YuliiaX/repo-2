@@ -5,12 +5,8 @@
 }
 
 body {
-    font-family: "Open Sans", sans-serif;
-}
-
-body {
     background-color: rgb(241, 204, 192);
-    font-family: "Lato", sans-serif;
+    font-family: "Open Sans", sans-serif;
 }
 
 h1 {
@@ -23,10 +19,6 @@ h1 {
     background-color: chartreuse;
     padding: 20px;
     text-align: center;
-}
-
-.img {
-    size: 15px;
 }
 
 .green-color {
