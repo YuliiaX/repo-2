@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+body {
+    background-color: rgb(241, 204, 192);
+    font-family: "Lato", sans-serif;
+}
+
+h1 {
+    color: red ;
+    text-align: center;
+    font-size: 58px;
+}
+
+ div {
+    background-color: chartreuse;
+    padding: 20px;
+    text-align: center;
+}
+
+.img {
+    size: 15px;
+}
+
+.green-color {
+    color: green;
+}
+
+.line {
+    background-color: aqua;
+    padding: 1px;
+}
+
+.test {
+    padding: 20px;
+    background-color: chocolate;
+    text-align: center;
+}
+
+#testId {
+    background-color: chartreuse;
+}
+
+.menu {
+    display: flex;
+    gap: 20px;
+}
+
+.menu li a {
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+}
+
+textarea {
+    resize: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Sclass {
+    background-color: bisque;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+p {
+font-size: 36px;
+}
